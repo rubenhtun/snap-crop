@@ -53,8 +53,7 @@
   }
   .file-upload-label,
   button {
-    padding: 6px 10px;
-    font-size: 0.7rem;
+    padding: 10px;
   }
   .cropped-img-content {
     padding: 15px 30px;
