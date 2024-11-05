@@ -29,7 +29,7 @@ Can open the project in your preferred code editor.
 
 ## Screenshots/Demo
 ![Screenshot of Snap Crop](https://github.com/rubenhtun/snap-crop/raw/main/favicon.jpeg)
-[Live Demo](https://rubenhtun.github.io/SnapCrop/)
+[Live Demo](https://rubenhtun.github.io/snap-crop/)
 
 ## Contributing
 Feel free to fork the repository and submit pull requests for improvements!
